@@ -1,4 +1,4 @@
 Hi, I'm another file
 
-LUNCH change
-DINNER
+BREAKFAST
+LUNCH changeDINNER
