@@ -10,5 +10,5 @@ jmschreiber changed this file when adding lunch.txt
 
 * list item 
 * item 2
-..* sub-item?
+  * sub-item?
 * item 3
