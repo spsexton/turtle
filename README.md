@@ -8,7 +8,7 @@ jmschreiber changed this file when adding lunch.txt
 
 ## Heading 2
 
-* list item 
-* item 2
-  * sub-item?
-* item 3
+- list item 
+- item 2
+  - sub-item?
+- item 3
