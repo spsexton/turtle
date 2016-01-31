@@ -2,9 +2,9 @@
 
 Hi, this is a v1 README file
 
-sean@seans.com changed this file
-
 jmschreiber changed this file when adding lunch.txt
+
+Sean added some text on Play branch
 
 ## Heading 2
 
